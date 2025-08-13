@@ -4,7 +4,7 @@ This is a simple static website that showcases two separate portfolios — **Anu
 Each portfolio includes an About section, Skills, Projects, and Contact details, all presented in a clean dark theme with neon highlights.
 
 ## 🌐 Live Demo
-[Click here to view](https://github.com/anushjowin/Personal-Portfolio)  
+[Click here to view](https://github.com/anushjowin/Two-Portfolio)  
 
 ## 📂 Project Structure
 two-portfolios/
@@ -32,4 +32,5 @@ two-portfolios/
 2. Open 'index.html' in your web browser.
 
 ## 📜 License
+
 This project is licensed under the MIT License - fell free to use and modify.
